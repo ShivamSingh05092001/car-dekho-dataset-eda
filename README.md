@@ -59,4 +59,4 @@ The goal is to explore how different factors such as brand, fuel type, kilometer
 
 ### 👤 Developed By
 **Shivam Singh**  
-*Project created through CarDekho Kaggle dataset EDA. Notebook developed and maintained by Moharnab Saikia.*
+*Project created through CarDekho Kaggle dataset EDA.*
